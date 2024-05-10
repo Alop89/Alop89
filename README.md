@@ -1,4 +1,4 @@
-
+![Header](https://github.com/Alop89/Alop89/blob/main/github-header-image.png)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
 Ph.D. graduate in Scientific Research (University of Guanajuato) seeking to leverage data analysis skills for impactful decisions.
@@ -23,3 +23,8 @@ I'm a creative problem-solver with excellent communication and collaboration ski
 
 ### LinkedIn profile
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alfredo-lopez-castro/)
+
+
+### Milestones in the current bootcamp
+<img src="https://github.com/Alop89/Alop89/blob/main/Image(1).png" width="400" height="200"/>
+<img src="https://github.com/Alop89/Alop89/blob/main/Image.png" width="400" height="200"/>
