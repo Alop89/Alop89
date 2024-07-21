@@ -1,7 +1,7 @@
 ![Header](https://github.com/Alop89/Alop89/blob/main/github-header-image.png)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
-Ph.D. graduate in Scientific Research (University of Guanajuato) seeking to leverage data analysis skills for impactful decisions.
+Ph.D. graduate in scientific research (University of Guanajuato) seeking to leverage data analysis skills for impactful decisions.
 
 Currently enrolled in TripleTen's Data Analyst Bootcamp, I possess strong foundations in Python, SQL, data visualization, and Jupyter Notebook for data exploration. 
 I'm a creative problem-solver with excellent communication and collaboration skills, eager to contribute to a team!
