@@ -26,7 +26,8 @@ I'm a creative problem-solver with excellent communication and collaboration ski
 
 
 ### Milestones in the current bootcamp
-<img src="https://github.com/Alop89/Alop89/blob/main/sql.png" width="400" height="200"/>
-<img src="https://github.com/Alop89/Alop89/blob/main/guru.png" width="400 height="200"/> 
-<img src="https://github.com/Alop89/Alop89/blob/main/tableau.png" width ="400 height ="200"/>
-<img src="https://github.com/Alop89/Alop89/blob/main/story_teller.png" width ="400 height ="200"/>
+
+| | |
+| --- | --- |
+| <img src="https://github.com/Alop89/Alop89/blob/main/sql.png" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/guru.png" width="400" height="200"/> |
+| <img src="https://github.com/Alop89/Alop89/blob/main/tableau.png" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/story_teller.png" width="400" height="200"/> |
