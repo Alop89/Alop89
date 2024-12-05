@@ -52,6 +52,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 Visualizations: Heatmaps and dendrograms to explore customer segmentation.
 Outcomes
 This project showcases the power of data in enhancing customer experience and retention. By predicting potential churners and addressing their unique needs, Model Fitness is equipped to foster deeper customer connections and stay ahead in a competitive market.
+
 <img src="https://img.shields.io/badge/-Market%20Segmentation-000000?style=flat&logo=googleanalytics" alt="Market Segmentation" /> | <img src="https://img.shields.io/badge/-Relationship%20Marketing-000000?style=flat&logo=handshake" alt="Relationship Marketing" /> | <img src="https://img.shields.io/badge/-Predictive%20Analytics-000000?style=flat&logo=datadog" alt="Predictive Analytics" />|<img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=tensorflow" alt="Machine Learning" />|<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python Badge" />|<img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas" alt="Pandas Badge" />|<img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />|<img src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy" alt="NumPy Badge" />
 
 
