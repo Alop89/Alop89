@@ -32,24 +32,31 @@ I'm a creative problem-solver with excellent communication and collaboration ski
 | <img src="https://github.com/Alop89/Alop89/blob/main/tableau.png" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/story_teller.png" width="400" height="200"/> |
 
 
+## Some of my projects
 
-<div align="center">
-    <h1>Some of my projects</h1>
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/Natcol05/Machine-Learning-Model.git" target="_blank">
-                    <img src="https://github.com/Natcol05/Machine-Learning-Model/blob/93da41886e23f109e930422c2e0a179ad2d2f021/Graphics/GYM%20(4).png?raw=true" alt="Gym Image" style="padding-right: 10px; width: 600px; height: 250px;" />
-                </a>
-            </td>
-            <td style="vertical-align: middle;">
-                <h2 align="center" style="color: black; text-decoration: none;">
-                    Our primary objective was to develop a data-driven customer retention strategy for Model Fitness. Through this project, we aim to provide the company with a valuable tool to analyze customer behavior, optimize marketing efforts, and improve the overall customer experience, leading to increased customer retention and sustainable business growt
-                </h2>   
-                    
-            
-                <div>
-                    <img src="https://img.shields.io/badge/-Market%20Segmentation-000000?style=flat&logo=googleanalytics" alt="Market Segmentation" />
+### Gym Customer Churn Prediction: A Data-Driven Approach to Retention
+In the competitive fitness industry, customer retention is vital for long-term success. Recognizing this, Model Fitness embarked on a project to leverage data analytics and machine learning to predict and prevent customer churn, particularly focusing on members who "fade away" without explicitly canceling their memberships.
+
+### Project Objectives
+The goal of this project is to create a data-driven retention strategy by analyzing customer behavior, developing predictive models, and identifying actionable insights. This initiative aims to improve customer experience, optimize marketing efforts, and foster sustainable growth for Model Fitness.
+
+### Key Highlights
+Data Analysis: Exploratory data analysis (EDA) revealed insights through heatmaps and dendrograms, identifying clusters and correlations between key variables.
+Machine Learning Models:
+Logistic Regression and Random Forest models were implemented.
+Logistic Regression demonstrated superior performance across metrics like Accuracy (0.93), F1 Score (0.86), and AUC-ROC (0.97) compared to Random Forest.
+Business Recommendations: Tailored strategies were suggested for different customer clusters, such as flexible memberships, rewards for milestones, and motivational campaigns, aiming to increase loyalty and satisfaction.
+Libraries and Tools
+Python: For data analysis and machine learning.
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+Visualizations: Heatmaps and dendrograms to explore customer segmentation.
+Outcomes
+This project showcases the power of data in enhancing customer experience and retention. By predicting potential churners and addressing their unique needs, Model Fitness is equipped to foster deeper customer connections and stay ahead in a competitive market.
+
+Explore the full project and code in this repository to see how machine learning can drive business growth. 💪
+Click here for more information [More about the project](https://github.com/Alop89/Gym_churn_prediction)
+
+<img src="https://img.shields.io/badge/-Market%20Segmentation-000000?style=flat&logo=googleanalytics" alt="Market Segmentation" />
                     <img src="https://img.shields.io/badge/-Relationship%20Marketing-000000?style=flat&logo=handshake" alt="Relationship Marketing" />
                     <img src="https://img.shields.io/badge/-Predictive%20Analytics-000000?style=flat&logo=datadog" alt="Predictive Analytics" />
                     <img src="https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=tensorflow" alt="Machine Learning" />
@@ -57,8 +64,3 @@ I'm a creative problem-solver with excellent communication and collaboration ski
                     <img src="https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas" alt="Pandas Badge" />
                     <img src="https://img.shields.io/badge/-Scikit--learn-000000?style=flat&logo=scikit-learn" alt="Scikit-learn Badge" />
                     <img src="https://img.shields.io/badge/-NumPy-000000?style=flat&logo=numpy" alt="NumPy Badge" />
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
