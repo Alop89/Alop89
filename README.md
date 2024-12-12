@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
 Ph.D. graduate in scientific research (University of Guanajuato) seeking to leverage data analysis skills for impactful decisions.
 
-Currently enrolled in TripleTen's Data Analyst Bootcamp, I possess strong foundations in Python, SQL, data visualization, and Jupyter Notebook for data exploration. 
-I'm a creative problem-solver with excellent communication and collaboration skills, eager to contribute to a team!
+I have a solid background in data analysis and tools such as Python, SQL, Excel, and Tableau, which I have used to transform unstructured datasets into valuable insights that drive decision-making, always striving to stay up to date with the latest advancements. I have completed projects ranging from sales and product analysis to data extraction and processing in various sectors as part of my studies. My ability to simplify complex concepts and communicate clearly has enabled me to collaborate effectively with multidisciplinary teams and achieve established objectives, even in challenging environments
+
 
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glasses.png" alt="Glasses" width="25" height="25" /> Working smart to become a good data analyst
