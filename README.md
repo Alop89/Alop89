@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
 
-**Ph.D. in Scientific Research (University of Guanajuato) | Data Architect & Consultant**
+**Ph.D. in Scientific Research | Data Architect & Consultant**
 
 I have a solid background in advanced data analysis and tools such as Python, SQL, Excel, and Tableau. I specialize in transforming unstructured, chaotic datasets into clear, valuable insights that drive strategic and operational decision-making. 
 
