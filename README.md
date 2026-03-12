@@ -1,36 +1,51 @@
-![Header](https://github.com/Alop89/Alop89/blob/main/github-header-image.png)
+![Header](https://github.com/Alop89/Alop89/blob/main/github-header-image.png?raw=true)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
-Ph.D. graduate in scientific research (University of Guanajuato) seeking to leverage data analysis skills for impactful decisions.
 
-I have a solid background in data analysis and tools such as Python, SQL, Excel, and Tableau, which I have used to transform unstructured datasets into valuable insights that drive decision-making, always striving to stay up to date with the latest advancements. I have completed projects ranging from sales and product analysis to data extraction and processing in various sectors as part of my studies. My ability to simplify complex concepts and communicate clearly has enabled me to collaborate effectively with multidisciplinary teams and achieve established objectives, even in challenging environments
+**Ph.D. in Scientific Research (University of Guanajuato) | Data Architect & Consultant**
 
+I have a solid background in advanced data analysis and tools such as Python, SQL, Excel, and Tableau. I specialize in transforming unstructured, chaotic datasets into clear, valuable insights that drive strategic and operational decision-making. 
 
+Leveraging the analytical rigor from my scientific background, I build scalable data pipelines and automated reporting systems. My ability to simplify complex concepts and communicate them clearly allows me to bridge the gap between technical data and business impact, helping stakeholders optimize resources and improve ROI.
 
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glasses.png" alt="Glasses" width="25" height="25" /> Working smart to become a good data analyst
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /> Currently base in Mexico
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" alt="DNA" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Passionate about science and working with data
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glasses.png" alt="Glasses" width="25" height="25" /> Designing smart data architectures for real-world business problems.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /> Based in León, Guanajuato, Mexico.
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" alt="DNA" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Passionate about merging scientific methodology with business intelligence.
 
-### Skills and tools
+---
+
+### 🛠️ Skills and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### LinkedIn profile
+---
+
+### 🎓 Certifications & Hackathons
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://github.com/Alop89/Alop89/blob/main/trp_da.png?raw=true" width="280"/> | <img src="https://github.com/Alop89/Alop89/blob/main/google_da.png?raw=true" width="280"/> | <img src="https://github.com/Alop89/Alop89/blob/main/google_bi.png?raw=true" width="280"/> |
+| <img src="https://github.com/Alop89/Alop89/blob/main/github.png?raw=true" width="280"/> | <img src="https://github.com/Alop89/Alop89/blob/main/hct_nocountry.png?raw=true" width="280"/> | <img src="https://github.com/Alop89/Alop89/blob/main/hct_retail.png?raw=true" width="280"/> |
+
+---
+
+### 🚀 Milestones in the Current Bootcamp
+
+| | |
+| :---: | :---: |
+| <img src="https://github.com/Alop89/Alop89/blob/main/sql.png?raw=true" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/guru.png?raw=true" width="400" height="200"/> |
+| <img src="https://github.com/Alop89/Alop89/blob/main/tableau.png?raw=true" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/story_teller.png?raw=true" width="400" height="200"/> |
+
+---
+
+### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alfredo-lopez-castro/)
-
-
-### Milestones in the current bootcamp
-
-
-| <img src="https://github.com/Alop89/Alop89/blob/main/sql.png" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/guru.png" width="400" height="200"/> |
-| <img src="https://github.com/Alop89/Alop89/blob/main/tableau.png" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/story_teller.png" width="400" height="200"/> |
-
 
 ## Some of my projects
 
