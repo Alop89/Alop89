@@ -1,4 +1,4 @@
-![Header]([https://github.com/Alop89/Alop89/blob/main/github-header-image.png?raw=true](https://github.com/Alop89/Alop89/blob/main/arch_data_.png))
+![Header](https://github.com/Alop89/Alop89/blob/main/arch_data_.png?raw=true)
 
 <img src="https://github.com/Alop89/Alop89/blob/main/arch_data_.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
 
