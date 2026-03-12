@@ -1,6 +1,6 @@
 ![Header](https://github.com/Alop89/Alop89/blob/main/github-header-image.png?raw=true)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
+<img src="https://github.com/Alop89/Alop89/blob/main/arch_data_.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
 
 **Ph.D. in Scientific Research (University of Guanajuato) | Data Architect & Consultant**
 
