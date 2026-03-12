@@ -35,7 +35,7 @@ Leveraging the analytical rigor from my scientific background, I build scalable 
 
 ---
 
-### 🚀 Milestones in the Current Bootcamp
+### 🚀 Milestones
 
 | | |
 | :---: | :---: |
