@@ -6,7 +6,7 @@
 
 **Ph.D. in Scientific Research | Data Architect & Consultant**
 
-I have a solid background in advanced data analysis and tools such as Python, SQL, Excel, and Tableau. I specialize in transforming unstructured, chaotic datasets into clear, valuable insights that drive strategic and operational decision-making. 
+I have a solid background in data analysis and tools such as Python, SQL, Excel, and Power BI. I specialize in transforming unstructured, chaotic datasets into clear, valuable insights that drive strategic and operational decision-making. 
 
 Leveraging the analytical rigor from my scientific background, I build scalable data pipelines and automated reporting systems. My ability to simplify complex concepts and communicate them clearly allows me to bridge the gap between technical data and business impact, helping stakeholders optimize resources and improve ROI.
 
