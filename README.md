@@ -1,6 +1,6 @@
 ![Header](https://github.com/Alop89/Alop89/blob/main/arch_data_.png?raw=true)
 
-<img src="https://github.com/Alop89/Alop89/blob/main/arch_data_.png" alt="Victory Hand Light Skin Tone" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
+Hi, I’m Alfredo Lopez (@Alop89)
 
 **Ph.D. in Scientific Research (University of Guanajuato) | Data Architect & Consultant**
 
