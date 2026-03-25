@@ -45,7 +45,31 @@ Leveraging the analytical rigor from my scientific background, I build scalable 
 | <img src="https://github.com/Alop89/Alop89/blob/main/tableau.png?raw=true" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/story_teller.png?raw=true" width="400" height="200"/> |
 
 ---
+# ⚡ Welcome to the Data-Grid // Alop89 ⚡
 
+![Synthwave Banner](https://img.shields.io/badge/Vibe-Synthwave-ff00ff?style=for-the-badge&logo=retroarch&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Analyzing_The_Future-00ffff?style=for-the-badge)
+
+> "The digital sunset never ends when you're riding the waves of data."
+
+---
+
+## 🚀 MISSION_CONTROL: PROJECTS_PORTFOLIO
+Ready to dive into the grid? Access my complete directory of data experiments and neural-net explorations below:
+
+🔗 **[ACCESS_PORTFOLIO_HERE](https://github.com/Alop89/Projects_portfolio/tree/main)**
+
+*Click the link above to explore my latest work in Data Analysis and ML.*
+
+---
+
+## 📡 CONNECT_WITH_ME
+If you want to talk about data, technology, or the perfect synthwave playlist, let's sync up:
+
+---
+
+### 🕹️ TERMINAL_END
+*System optimized. High-fidelity insights guaranteed.*
 
 ---
 
