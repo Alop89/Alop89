@@ -1,6 +1,12 @@
 ![Header](https://raw.githubusercontent.com/Alop89/Alop89/main/arch_data_.png)
 
 > 🌌 **SYSTEM ONLINE: Transforming chaotic datasets into high-fidelity business architecture.**
+> # ⚡ Welcome to the Data-Grid // Alop89 ⚡
+
+![Synthwave Banner](https://img.shields.io/badge/Vibe-Synthwave-ff00ff?style=for-the-badge&logo=retroarch&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Analyzing_The_Future-00ffff?style=for-the-badge)
+
+> "The digital sunset never ends when you're riding the waves of data."
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute" width="25" height="25" /> Hi, I’m Alfredo Lopez (@Alop89)
 
@@ -43,14 +49,6 @@ Leveraging the analytical rigor from my scientific background, I build scalable 
 | :---: | :---: |
 | <img src="https://github.com/Alop89/Alop89/blob/main/sql.png?raw=true" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/guru.png?raw=true" width="400" height="200"/> |
 | <img src="https://github.com/Alop89/Alop89/blob/main/tableau.png?raw=true" width="400" height="200"/> | <img src="https://github.com/Alop89/Alop89/blob/main/story_teller.png?raw=true" width="400" height="200"/> |
-
----
-# ⚡ Welcome to the Data-Grid // Alop89 ⚡
-
-![Synthwave Banner](https://img.shields.io/badge/Vibe-Synthwave-ff00ff?style=for-the-badge&logo=retroarch&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Analyzing_The_Future-00ffff?style=for-the-badge)
-
-> "The digital sunset never ends when you're riding the waves of data."
 
 ---
 
