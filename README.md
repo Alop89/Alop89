@@ -64,12 +64,10 @@ Ready to dive into the grid? Access my complete directory of data experiments an
 ## 📡 CONNECT_WITH_ME
 If you want to talk about data, technology, or the perfect synthwave playlist, let's sync up:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/jose-alfredo-lopez-castro/)
 ---
 
 ### 🕹️ TERMINAL_END
 *System optimized. High-fidelity insights guaranteed.*
 
----
 
-### 📬 Establish Connection
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0C10?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/jose-alfredo-lopez-castro/)
