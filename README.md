@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/Alop89/Alop89/main/arch_data_.png)
 
 > 🌌 **SYSTEM ONLINE: Transforming chaotic datasets into high-fidelity business architecture.**
-> # ⚡ Welcome to the Data-Grid // Alop89 ⚡
+> # ⚡Welcome to the Data-Grid⚡
 
 ![Synthwave Banner](https://img.shields.io/badge/Vibe-Synthwave-ff00ff?style=for-the-badge&logo=retroarch&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Analyzing_The_Future-00ffff?style=for-the-badge)
